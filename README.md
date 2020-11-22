@@ -19,3 +19,5 @@ Corporate actions must often be approved by a company's shareholders and board o
 #### Project Phase Diagram
 
 ![alt text](https://github.com/jklu-jaipur/Corporate-Action-PDF-Analysis/blob/main/phase%20diagram.JPG)
+
+Original PDF -> Tagged Entities -> Extracted Entities
