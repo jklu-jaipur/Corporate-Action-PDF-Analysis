@@ -12,3 +12,6 @@ Corporate actions must often be approved by a company's shareholders and board o
 2. Pandas
 3. Regular Expression (RE)
 
+#### Process flow block diagram
+
+![Screenshot] 
